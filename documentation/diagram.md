@@ -2,8 +2,8 @@
 ## Use Case: Change the dates 
 
 
-main actors: user, API/system, database
-main scenario: change the dates of an active booking. 
+Main actors: user, API/system, database.
+Main scenario: change the dates of an active booking. 
 ```mermaid
 sequenceDiagram
     autonumber
